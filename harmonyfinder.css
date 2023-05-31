@@ -1,0 +1,16 @@
+.azul {
+    background-color: cornflowerblue;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+    height: 17%;
+    left: 0px;
+    top: 0px;
+    background-color: cornflowerblue;
+}
+
+.pequena {
+    width: 10vw;
+}
